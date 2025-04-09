@@ -30,12 +30,16 @@ A React-based application that allows users to upload a PDF file, generate a QR 
 ### Prerequisites
 
 - Node.js (v16 or higher)
-- npm or yarn
+- npm
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MyQRcoder.git
-   cd MyQRcode
+   git clone https://github.com/shemaeric1234/PDF-QRCode-Embedder-App.git
+   cd PDF-QRCode-Embedder-App
    ```
+
+## Contributors
+
+- [Eric SHEMA](https://github.com/shemaeric1234)
